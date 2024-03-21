@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![yyyy's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=yyyy1226&show_icons=true&count_private=true&theme=gotham)
 
-[![yyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyyy1226)](https://github.com/anuraghazra/github-readme-stats)
+[![yyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yyyy)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
